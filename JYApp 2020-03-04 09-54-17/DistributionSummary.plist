@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JYApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FB397C7FA1C1E601D68FB4668CE73E0920044693</string>
+				<key>dateExpires</key>
+				<string>2020/10/9</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GJ4VL85M58.com.App.www.JYApp</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GJ4VL85M58</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>云风车.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ac2d6735-8b66-409a-ba1f-9dc610958565</string>
+				<key>name</key>
+				<string>JYDEV/DOC</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GJ4VL85M58</string>
+				<key>name</key>
+				<string>Dongying Pioneer Information Technology Service Co., Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
